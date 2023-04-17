@@ -1,0 +1,9 @@
+0 Nothing
+1 Food
+2 Leaf
+3 Paper
+4 Wood
+5 E-Waste
+6 Metal Cans
+7 Plastic Bags
+8 Plastic Bottle

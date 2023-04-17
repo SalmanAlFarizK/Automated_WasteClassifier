@@ -1,0 +1,5 @@
+0 Class 1
+1 Plastic_Bottle
+2 Plastic_Bag
+3 Leaf_waste
+4 Paper_waste
